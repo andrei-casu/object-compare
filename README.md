@@ -3,6 +3,10 @@
 - a revursive function to compare objects
 - array order does not matter
 
+##install:
+```bash
+npm install --save object-compare
+```
 ##usage:
 ```javascript
 const objectCompare = require('object-compare');
