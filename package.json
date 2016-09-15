@@ -1,0 +1,20 @@
+{
+  "name": "object-compare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capsu97/object-compare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capsu97/object-compare/issues"
+  },
+  "homepage": "https://github.com/capsu97/object-compare#readme"
+}
